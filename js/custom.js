@@ -120,7 +120,7 @@ $(document).ready(function () {
                     required: true
                 },
                 phone: {
-                    required: false
+                    required: true
                 },
                 message: {
                     required: true
